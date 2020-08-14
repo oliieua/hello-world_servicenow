@@ -1,0 +1,12 @@
+{
+	"components": {
+	    "x-523869-hello-world": {
+	    	"uiBuilder": {
+	    		"label": "Hello World",
+	    		"icon": "chat-fill",
+	    		"description": "Simple component for framework testing."
+	    	}
+	    }
+	},
+	"scopeName": "x_523869_test_he_2"
+}
